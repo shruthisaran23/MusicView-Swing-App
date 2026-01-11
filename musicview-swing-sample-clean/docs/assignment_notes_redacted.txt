@@ -1,0 +1,13 @@
+# CS 6456 Homework 2: Building Custom Swing Components: The MusicView Component
+
+Name: [redacted]
+Email: [redacted]
+SDK: 17
+Language Level: 8
+
+Extra Information: 
+- Clicking any other button (Pen, New Staff, Delete Staff, Play, Stop) and clicking on staffs halts Select Mode 
+- Delete is functional, but need to click TAB button 8 times before pressing Delete
+
+Extra Credit:
+- Moving a symbol off a staff immediately deletes it (regular dragging mode and select mode) 
